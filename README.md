@@ -3,7 +3,7 @@
 This project demonstrates how to create an image upload feature using a React frontend with Tailwind CSS, an Express.js backend with Multer, and MongoDB for storing image metadata.
 
 ### Technologies Used
-<hr style="border: 0; border-top: 0.5px solid #000;">
+<hr style="border: 0; border-top: 0.2px solid #000;">
 
 #### Frontend : React, Axios and Tailwind CSS
 #### Backend : Express and Multer
