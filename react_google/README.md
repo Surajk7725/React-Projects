@@ -22,7 +22,9 @@ This project is a full-stack web application built with React.js on the frontend
   - MongoDB (Database)
 - **Authentication**:
   - Google OAuth 2.0
-
+ 
+  
+![Screenshot 2024-10-14 224537](https://github.com/user-attachments/assets/5b2b4dc4-b540-4309-90b9-1ac2063439ed)
 
 
 
