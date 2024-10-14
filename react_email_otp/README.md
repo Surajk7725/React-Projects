@@ -9,4 +9,7 @@ This project demonstrates how to create an OTP-based login system using a React 
 - **Server**: Node.js
 - **Email Service**: Nodemailer (for sending OTP emails)
 
+  ![Screenshot 2024-10-14 225358](https://github.com/user-attachments/assets/3b093d48-18fa-4da4-8d5d-9e35d97f31e2)
+
+
 
